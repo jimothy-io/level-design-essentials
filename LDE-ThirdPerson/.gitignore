@@ -68,3 +68,6 @@ crashlytics-build.properties
 
 # Unity
 *.unitypackage
+/[Pp]ackages/*
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
